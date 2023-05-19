@@ -1,4 +1,4 @@
-# bookstor
+# bookstore
 
 Execute the code in VS code
 
